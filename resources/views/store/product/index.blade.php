@@ -1,0 +1,1 @@
+widok produktow dla klijenta
